@@ -10,6 +10,4 @@ public class CdcApplication {
 		SpringApplication.run(CdcApplication.class, args);
 	}
 
-
-
 }
